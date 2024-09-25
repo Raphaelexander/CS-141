@@ -1,0 +1,25 @@
+# multithreading is chunking lines of code to compute at once. Large data sets can be split up to execute large code faster
+
+java progam needs to have at least one class. Can name class anyting
+Exectue statements finsih the code
+Class name>
+Java convention is to start class name with a capital letter
+main method>
+to run class it needs a main method. Start with lowercase
+statements>
+represents an action or sequence of actions. Decent habit to put each new statement on new lind
+statenent terminator>
+in java it is a (;) 
+reserved words>
+when compiler goes to parce code, you cannot use specific words twice, such as "public" "static" "void" (semantic meaning)
+comments>
+blocks>
+a pair of braces in a program forms a block that groups components of a program. "a statement that contains other statements
+
+F(x) in math is the same as statements like System.out.preinln("Hello World!")
+
+// is for notes. It is ignored by compiler. Multi line note is /* and ends with */
+
+[] notation for arrays specifically
+name class date and project comment out on top of code projects 
+syntax runtime 
